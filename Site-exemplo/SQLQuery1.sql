@@ -1,0 +1,1 @@
+select * from VENDAS_INTERNET
